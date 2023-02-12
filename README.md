@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @iamdastani
-- 👀 I’m interested in Software Development
+- 👀 I’m Software Engineer
 - 🌱 I’m Mobile App Developer (flutter)
+- 🌱 I’m Automation developer (Python)
+- 🌱 I’m System Developer (Laravel)
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me +255 652 449 389
 
